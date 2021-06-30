@@ -1,0 +1,9 @@
+aws-cdk.core==1.102.0
+aws-cdk.aws_events==1.102.0
+aws-cdk.aws_codepipeline==1.102.0
+aws-cdk.aws_codebuild==1.102.0
+aws-cdk.aws_codecommit==1.102.0
+aws-cdk.aws_events_targets==1.102.0
+aws-cdk.aws_codepipeline_actions==1.102.0
+aws-cdk.aws_ssm==1.102.0
+aws-cdk.aws_iam==1.102.0
